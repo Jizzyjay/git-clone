@@ -1,5 +1,5 @@
 
-![ App](https://git-clone-3mks.onrender.com/)
+[ App](https://git-clone-3mks.onrender.com/)
 
 [Git repo](https://github.com/Jizzyjay/git-clone)
 
